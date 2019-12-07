@@ -18,8 +18,17 @@ $ git config --global user.email "email@domain.com"
 
 ## Comandos gerais
 
-* `git init` Inicia um projeto
-* `git add .` Adiciona ou atualiza mudanças a serem incluídas na linha do tempo
-* `git commit -m "commit message"` Adiciona um ponto na linha do tempo
+* `git init` inicia um projeto
+* `git add .` adiciona ou atualiza mudanças a serem incluídas na timeline
+* `git commit -m "commit message"` adiciona um ponto na timeline
+* `git log` lista os pontos/commits na timeline
+* `git status`lista o estado das alterações no projeto
+* `git show` exibe determinado ponto na timeline
+* `git branch` gerencia as timelines
+* `checkout` seleciona uma determinada timeline
+* `git merge` une duas timelines
+* `git push` envia alterações locais (commits) para o repositório remoto
+* `git clone` clona um projeto/repositório
+* `git pull` busca atualizações no repositório remoto
 
 **[Retornar ao índice](README.md)**
