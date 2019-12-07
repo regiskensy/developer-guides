@@ -5,6 +5,7 @@ Esse documento descreve os principais comandos do Git e sua integração com Git
 ## Autenticação
 
 Para salvar as credenciais de acesso ao Github, de forma que não sejam exigidas a cada comando **push ou pull**, basta seguir o seguinte procedimento:
+
 Execute o comando `git config --global credential.helper store` e então `git pull`, serão exigidas suas credenciais. Após validadas, suas credenciais serão salvas em `~/.git-credentials`, a partir de então o git passa a buscar suas credenciais desse arquivo, não sendo necessário digitar novamente após cada comando.
 
 ## Comandos gerais
