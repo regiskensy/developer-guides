@@ -17,4 +17,4 @@ $ git config --global user.email "email@domain.com"
 ```
 
 
-**[Retornar ao indice](README.md)**
+**[Retornar ao índice](README.md)**
