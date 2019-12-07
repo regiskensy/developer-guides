@@ -1,6 +1,6 @@
 # Guia para desenvolvedores
 
-Esse é um guia simples contendo as principais funções, features, comandos, entre outros aspectos, relacionados a linguagens de programação, ferramentas e tecnologia que utilizo no meu dia-a-dia.
+Esse é um guia simples contendo as principais funções, features, comandos, entre outros aspectos, relacionados a linguagens de programação, ferramentas e tecnologias que utilizo no meu dia-a-dia.
 
 ## Indice
 
