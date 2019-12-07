@@ -15,4 +15,9 @@ $ git config --global user.name "username"
 ```bash
 $ git config --global user.email "email@domain.com"
 ```
+
+## Comandos gerais
+
+* **git init** - Inicia um projeto
+
 **[Retornar ao índice](README.md)**
