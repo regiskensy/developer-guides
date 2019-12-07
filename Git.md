@@ -23,4 +23,4 @@ Execute o comando `git config --global credential.helper store` e então `git pu
 * `git clone` clona um projeto/repositório
 * `git pull` busca atualizações no repositório remoto
 
-**[Retornar ao índice](README.md)**
+**[Voltar](README.md)**
